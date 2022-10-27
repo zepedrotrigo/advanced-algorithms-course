@@ -39,7 +39,7 @@ def build_graph(n, p): # n: number of vertexes; p: percentage of edges
         v.append(Vertex(id=letters[i],point=points[i],weight=distance(points[i],Point(0,0))))
 
     # generate n connected edges
-    p =  int((n*(n-1)/2)*p) # calculate number of edges from percentage using the formula
+    p =  int(max((n*(n-1)/2)*p, n-1)) # calculate number of edges from percentage using the formula
     e = set()
     visited = []
     unvisited = list(letters[:n])
