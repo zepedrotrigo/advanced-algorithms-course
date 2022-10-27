@@ -77,8 +77,9 @@ if __name__ == "__main__":
             v,e = build_graph(n, p)
             with open(f'{path}/v{n}_e{p}.pkl', 'wb') as f:
                 pickle.dump([v,e], f)
-    '''
+    #'''
     v,e = build_graph(26, 0.75)
     print(v)
+    print(e)
     plot_graph(e)
-    '''
+    #'''
