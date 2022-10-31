@@ -9,7 +9,8 @@ class Vertex:
         self.weight = weight
 
     def __repr__(self):
-        return f"[{self.id}{self.point} weight={self.weight}]"
+        return self.id
+        #return f"[{self.id}{self.point} weight={self.weight}]"
 
 class Point:
     def __init__(self, x, y):
@@ -78,7 +79,7 @@ if __name__ == "__main__":
             with open(f'{path}/v{n}_e{p}.pkl', 'wb') as f:
                 pickle.dump([v,e], f)
     #'''
-    v,e = build_graph(26, 0.75)
+    v,e = build_graph(20, 0.75)
     print(v)
     print(e)
     plot_graph(e)
