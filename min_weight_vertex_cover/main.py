@@ -72,7 +72,7 @@ if __name__ == "__main__":
     for p in [0.125, 0.25, 0.5, 0.75]:
         for n in range(2,27):
             print(f"{n} Vertexes; {p} Edges:")
-            weight, comb = min_weight_vertex_cover_exhaustive(n, p)
-            #weight, comb = min_weight_vertex_cover_greedy(n, p)
+            #weight, comb = min_weight_vertex_cover_exhaustive(n, p)
+            weight, comb = min_weight_vertex_cover_greedy(n, p)
             print(f"{comb} <- Total Weight: {weight}")
             #plot_graph(edges)
