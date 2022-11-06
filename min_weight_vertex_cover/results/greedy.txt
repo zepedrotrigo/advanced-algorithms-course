@@ -1,50 +1,200 @@
-2 Vertexes; 0.75 Edges; Basic Operations: 22; Execution Time: 5.872699694009498e-05; Configurations Tested: 1
+2 Vertexes; 0.125 Edges; Basic Operations: 22; Execution Time: 5.386600241763517e-05; Configurations Tested: 1
 {B} <- Total Weight: 15
-3 Vertexes; 0.75 Edges; Basic Operations: 36; Execution Time: 3.8905993278604e-05; Configurations Tested: 1
+3 Vertexes; 0.125 Edges; Basic Operations: 36; Execution Time: 3.698900400195271e-05; Configurations Tested: 1
 {B} <- Total Weight: 15
-4 Vertexes; 0.75 Edges; Basic Operations: 90; Execution Time: 4.05489990953356e-05; Configurations Tested: 2
+4 Vertexes; 0.125 Edges; Basic Operations: 65; Execution Time: 3.848599590128288e-05; Configurations Tested: 2
+{A, D} <- Total Weight: 34
+5 Vertexes; 0.125 Edges; Basic Operations: 64; Execution Time: 3.479800216155127e-05; Configurations Tested: 1
+{C} <- Total Weight: 15
+6 Vertexes; 0.125 Edges; Basic Operations: 113; Execution Time: 3.8958001823630184e-05; Configurations Tested: 2
+{C, D} <- Total Weight: 41
+7 Vertexes; 0.125 Edges; Basic Operations: 113; Execution Time: 4.239100235281512e-05; Configurations Tested: 2
+{B, C} <- Total Weight: 41
+8 Vertexes; 0.125 Edges; Basic Operations: 129; Execution Time: 3.874500544043258e-05; Configurations Tested: 2
+{D, H} <- Total Weight: 29
+9 Vertexes; 0.125 Edges; Basic Operations: 145; Execution Time: 4.043599619762972e-05; Configurations Tested: 2
+{A, G} <- Total Weight: 44
+10 Vertexes; 0.125 Edges; Basic Operations: 161; Execution Time: 4.2031002521980554e-05; Configurations Tested: 2
+{H, I} <- Total Weight: 32
+11 Vertexes; 0.125 Edges; Basic Operations: 185; Execution Time: 4.4423999497666955e-05; Configurations Tested: 2
+{G, B} <- Total Weight: 37
+12 Vertexes; 0.125 Edges; Basic Operations: 193; Execution Time: 4.761899617733434e-05; Configurations Tested: 2
+{J, D} <- Total Weight: 43
+13 Vertexes; 0.125 Edges; Basic Operations: 221; Execution Time: 4.835800064029172e-05; Configurations Tested: 2
+{J, I} <- Total Weight: 35
+14 Vertexes; 0.125 Edges; Basic Operations: 229; Execution Time: 4.7918001655489206e-05; Configurations Tested: 2
+{L, D} <- Total Weight: 45
+15 Vertexes; 0.125 Edges; Basic Operations: 249; Execution Time: 5.033799970988184e-05; Configurations Tested: 2
+{O, E} <- Total Weight: 29
+16 Vertexes; 0.125 Edges; Basic Operations: 265; Execution Time: 5.6051998399198055e-05; Configurations Tested: 2
+{K, I} <- Total Weight: 29
+17 Vertexes; 0.125 Edges; Basic Operations: 286; Execution Time: 0.00010908400145126507; Configurations Tested: 2
+{K, M} <- Total Weight: 39
+18 Vertexes; 0.125 Edges; Basic Operations: 396; Execution Time: 6.588100222870708e-05; Configurations Tested: 3
+{F, K, G} <- Total Weight: 59
+19 Vertexes; 0.125 Edges; Basic Operations: 523; Execution Time: 7.837900193408132e-05; Configurations Tested: 4
+{F, G, R, D} <- Total Weight: 82
+20 Vertexes; 0.125 Edges; Basic Operations: 600; Execution Time: 7.726799958618358e-05; Configurations Tested: 4
+{G, T, S, C} <- Total Weight: 56
+21 Vertexes; 0.125 Edges; Basic Operations: 712; Execution Time: 8.206100028473884e-05; Configurations Tested: 5
+{H, F, T, U, O} <- Total Weight: 81
+22 Vertexes; 0.125 Edges; Basic Operations: 967; Execution Time: 9.635500464355573e-05; Configurations Tested: 7
+{U, R, E, V, S, P, O} <- Total Weight: 102
+23 Vertexes; 0.125 Edges; Basic Operations: 1649; Execution Time: 0.00011951199849136174; Configurations Tested: 11
+{O, T, V, R, M, K, W, B, P, U, E} <- Total Weight: 199
+24 Vertexes; 0.125 Edges; Basic Operations: 3041; Execution Time: 0.00017634899995755404; Configurations Tested: 12
+{O, W, P, C, G, X, R, B, V, D, T, M} <- Total Weight: 186
+25 Vertexes; 0.125 Edges; Basic Operations: 2368; Execution Time: 0.00014838800416328013; Configurations Tested: 12
+{U, Y, P, O, V, W, X, R, S, D, B, T} <- Total Weight: 196
+26 Vertexes; 0.125 Edges; Basic Operations: 3564; Execution Time: 0.00018082700262311846; Configurations Tested: 14
+{C, B, P, Y, D, U, X, T, Z, V, S, W, E, R} <- Total Weight: 196
+2 Vertexes; 0.25 Edges; Basic Operations: 22; Execution Time: 3.118799941148609e-05; Configurations Tested: 1
+{B} <- Total Weight: 15
+3 Vertexes; 0.25 Edges; Basic Operations: 36; Execution Time: 2.883500565076247e-05; Configurations Tested: 1
+{B} <- Total Weight: 18
+4 Vertexes; 0.25 Edges; Basic Operations: 65; Execution Time: 3.094400017289445e-05; Configurations Tested: 2
+{A, D} <- Total Weight: 34
+5 Vertexes; 0.25 Edges; Basic Operations: 64; Execution Time: 3.1452997063752264e-05; Configurations Tested: 1
+{C} <- Total Weight: 14
+6 Vertexes; 0.25 Edges; Basic Operations: 113; Execution Time: 3.586000093491748e-05; Configurations Tested: 2
 {C, D} <- Total Weight: 34
-5 Vertexes; 0.75 Edges; Basic Operations: 156; Execution Time: 4.34909961768426e-05; Configurations Tested: 3
-{C, D, A} <- Total Weight: 47
-6 Vertexes; 0.75 Edges; Basic Operations: 252; Execution Time: 5.1049995818175375e-05; Configurations Tested: 4
-{C, D, E, F} <- Total Weight: 74
-7 Vertexes; 0.75 Edges; Basic Operations: 463; Execution Time: 6.635799945797771e-05; Configurations Tested: 5
-{G, C, B, D, F} <- Total Weight: 95
-8 Vertexes; 0.75 Edges; Basic Operations: 611; Execution Time: 7.534900214523077e-05; Configurations Tested: 6
-{B, F, G, D, A, H} <- Total Weight: 106
-9 Vertexes; 0.75 Edges; Basic Operations: 1125; Execution Time: 9.42779952310957e-05; Configurations Tested: 8
-{D, C, F, H, A, G, I, B} <- Total Weight: 141
-10 Vertexes; 0.75 Edges; Basic Operations: 1528; Execution Time: 0.0001131289973272942; Configurations Tested: 8
-{H, A, I, F, D, C, J, B} <- Total Weight: 142
-11 Vertexes; 0.75 Edges; Basic Operations: 1333; Execution Time: 9.844300075201318e-05; Configurations Tested: 9
-{H, G, F, J, K, B, C, A, I} <- Total Weight: 160
-12 Vertexes; 0.75 Edges; Basic Operations: 2142; Execution Time: 0.0002003230038098991; Configurations Tested: 9
-{H, A, J, F, K, B, D, C, L} <- Total Weight: 151
-13 Vertexes; 0.75 Edges; Basic Operations: 2583; Execution Time: 0.0001436040038242936; Configurations Tested: 11
-{I, C, H, F, E, M, B, K, J, L, D} <- Total Weight: 196
-14 Vertexes; 0.75 Edges; Basic Operations: 3695; Execution Time: 0.00017501600086688995; Configurations Tested: 13
-{M, J, K, E, I, N, H, G, C, L, D, B, F} <- Total Weight: 236
-15 Vertexes; 0.75 Edges; Basic Operations: 5779; Execution Time: 0.0002452769986120984; Configurations Tested: 14
-{L, K, J, B, H, N, I, F, O, D, A, M, E, C} <- Total Weight: 245
-16 Vertexes; 0.75 Edges; Basic Operations: 4238; Execution Time: 0.0001989009979297407; Configurations Tested: 14
-{M, L, K, N, P, I, H, G, D, F, B, E, J, O} <- Total Weight: 242
-17 Vertexes; 0.75 Edges; Basic Operations: 4117; Execution Time: 0.00018606099911266938; Configurations Tested: 14
-{O, M, F, C, J, B, E, K, G, D, Q, P, H, I} <- Total Weight: 237
-18 Vertexes; 0.75 Edges; Basic Operations: 4528; Execution Time: 0.000208910001674667; Configurations Tested: 16
-{Q, O, M, R, C, J, A, P, K, I, H, D, F, G, B, E} <- Total Weight: 270
-19 Vertexes; 0.75 Edges; Basic Operations: 6278; Execution Time: 0.0002403999969828874; Configurations Tested: 16
-{G, E, M, A, C, P, I, S, K, D, Q, O, J, F, H, R} <- Total Weight: 268
-20 Vertexes; 0.75 Edges; Basic Operations: 10086; Execution Time: 0.00031339000270236284; Configurations Tested: 19
-{S, G, E, C, O, L, I, B, P, T, Q, A, R, M, D, K, J, H, F} <- Total Weight: 305
-21 Vertexes; 0.75 Edges; Basic Operations: 7406; Execution Time: 0.00025634899793658406; Configurations Tested: 20
-{K, G, E, D, P, N, O, Q, B, R, I, H, S, F, M, T, J, U, A, C} <- Total Weight: 320
-22 Vertexes; 0.75 Edges; Basic Operations: 13593; Execution Time: 0.0003896289999829605; Configurations Tested: 20
-{T, Q, G, P, O, N, F, M, D, S, K, J, I, A, V, H, E, U, R, C} <- Total Weight: 306
-23 Vertexes; 0.75 Edges; Basic Operations: 17854; Execution Time: 0.0004690220011980273; Configurations Tested: 22
-{D, T, H, W, U, V, A, O, L, M, K, S, G, I, R, F, Q, E, J, P, C, B} <- Total Weight: 341
-24 Vertexes; 0.75 Edges; Basic Operations: 12810; Execution Time: 0.00036722899676533416; Configurations Tested: 22
-{U, P, O, V, N, M, W, K, J, X, I, T, H, G, A, F, Q, E, D, R, C, S} <- Total Weight: 343
-25 Vertexes; 0.75 Edges; Basic Operations: 13166; Execution Time: 0.0003505260028759949; Configurations Tested: 23
-{X, W, V, U, P, T, Y, M, S, J, K, I, R, H, G, N, Q, B, E, D, C, A, O} <- Total Weight: 356
-26 Vertexes; 0.75 Edges; Basic Operations: 18653; Execution Time: 0.00045500299893319607; Configurations Tested: 24
-{X, O, W, N, M, V, K, J, I, U, T, Q, H, G, Y, Z, E, P, A, D, C, S, B, R} <- Total Weight: 372
+7 Vertexes; 0.25 Edges; Basic Operations: 113; Execution Time: 3.5577002563513815e-05; Configurations Tested: 2
+{B, C} <- Total Weight: 33
+8 Vertexes; 0.25 Edges; Basic Operations: 129; Execution Time: 3.776799712795764e-05; Configurations Tested: 2
+{D, H} <- Total Weight: 33
+9 Vertexes; 0.25 Edges; Basic Operations: 200; Execution Time: 4.276700201444328e-05; Configurations Tested: 3
+{G, D, A} <- Total Weight: 46
+10 Vertexes; 0.25 Edges; Basic Operations: 251; Execution Time: 4.8242000048048794e-05; Configurations Tested: 3
+{D, I, H} <- Total Weight: 42
+11 Vertexes; 0.25 Edges; Basic Operations: 249; Execution Time: 4.666499444283545e-05; Configurations Tested: 3
+{A, B, G} <- Total Weight: 52
+12 Vertexes; 0.25 Edges; Basic Operations: 390; Execution Time: 5.3562005632556975e-05; Configurations Tested: 5
+{J, D, C, A, H} <- Total Weight: 83
+13 Vertexes; 0.25 Edges; Basic Operations: 420; Execution Time: 6.210400169948116e-05; Configurations Tested: 4
+{M, K, J, I} <- Total Weight: 82
+14 Vertexes; 0.25 Edges; Basic Operations: 649; Execution Time: 6.93300025886856e-05; Configurations Tested: 7
+{L, C, N, D, K, M, I} <- Total Weight: 129
+15 Vertexes; 0.25 Edges; Basic Operations: 1752; Execution Time: 0.00011727200035238639; Configurations Tested: 10
+{I, N, D, F, H, E, O, K, B, M} <- Total Weight: 161
+16 Vertexes; 0.25 Edges; Basic Operations: 1064; Execution Time: 8.52189987199381e-05; Configurations Tested: 10
+{L, B, K, J, H, D, P, O, I, F} <- Total Weight: 164
+17 Vertexes; 0.25 Edges; Basic Operations: 1129; Execution Time: 9.291499736718833e-05; Configurations Tested: 8
+{K, H, M, O, B, P, D, Q} <- Total Weight: 130
+18 Vertexes; 0.25 Edges; Basic Operations: 3284; Execution Time: 0.00018445599562255666; Configurations Tested: 13
+{P, K, O, B, H, I, F, C, M, G, D, E, R} <- Total Weight: 223
+19 Vertexes; 0.25 Edges; Basic Operations: 1892; Execution Time: 0.00012678200437221676; Configurations Tested: 11
+{R, P, G, B, H, O, F, S, E, D, C} <- Total Weight: 202
+20 Vertexes; 0.25 Edges; Basic Operations: 3096; Execution Time: 0.0001669690027483739; Configurations Tested: 11
+{O, S, C, T, G, R, B, P, D, E, H} <- Total Weight: 187
+21 Vertexes; 0.25 Edges; Basic Operations: 3522; Execution Time: 0.00016653100465191528; Configurations Tested: 14
+{P, M, H, I, Q, F, S, O, E, U, D, C, R, T} <- Total Weight: 217
+22 Vertexes; 0.25 Edges; Basic Operations: 3302; Execution Time: 0.00014469000598182902; Configurations Tested: 17
+{P, R, O, T, Q, J, A, C, I, B, H, D, U, E, S, G, V} <- Total Weight: 283
+23 Vertexes; 0.25 Edges; Basic Operations: 6282; Execution Time: 0.00021186300000408664; Configurations Tested: 19
+{P, E, H, I, S, C, B, J, T, U, M, D, V, R, W, G, N, A, O} <- Total Weight: 308
+24 Vertexes; 0.25 Edges; Basic Operations: 9758; Execution Time: 0.0003137439998681657; Configurations Tested: 19
+{M, W, H, J, X, S, U, T, C, R, O, G, B, D, I, P, E, V, A} <- Total Weight: 311
+25 Vertexes; 0.25 Edges; Basic Operations: 6430; Execution Time: 0.00021746399579569697; Configurations Tested: 21
+{X, L, Y, S, G, H, W, P, V, J, N, U, Q, E, R, O, T, I, D, B, M} <- Total Weight: 321
+26 Vertexes; 0.25 Edges; Basic Operations: 4150; Execution Time: 0.00017329500406049192; Configurations Tested: 21
+{W, J, K, V, U, I, T, X, S, Y, R, O, Z, C, H, G, D, P, Q, N, M} <- Total Weight: 319
+2 Vertexes; 0.5 Edges; Basic Operations: 22; Execution Time: 3.263400139985606e-05; Configurations Tested: 1
+{B} <- Total Weight: 15
+3 Vertexes; 0.5 Edges; Basic Operations: 36; Execution Time: 2.976600080728531e-05; Configurations Tested: 1
+{B} <- Total Weight: 15
+4 Vertexes; 0.5 Edges; Basic Operations: 65; Execution Time: 3.1773000955581665e-05; Configurations Tested: 2
+{A, D} <- Total Weight: 33
+5 Vertexes; 0.5 Edges; Basic Operations: 98; Execution Time: 3.407500480534509e-05; Configurations Tested: 2
+{C, D} <- Total Weight: 33
+6 Vertexes; 0.5 Edges; Basic Operations: 198; Execution Time: 4.855499719269574e-05; Configurations Tested: 4
+{E, C, F, D} <- Total Weight: 70
+7 Vertexes; 0.5 Edges; Basic Operations: 239; Execution Time: 4.898499901173636e-05; Configurations Tested: 3
+{C, A, B} <- Total Weight: 55
+8 Vertexes; 0.5 Edges; Basic Operations: 301; Execution Time: 4.90890015498735e-05; Configurations Tested: 4
+{B, H, D, G} <- Total Weight: 69
+9 Vertexes; 0.5 Edges; Basic Operations: 411; Execution Time: 5.511600465979427e-05; Configurations Tested: 5
+{F, H, G, A, D} <- Total Weight: 78
+10 Vertexes; 0.5 Edges; Basic Operations: 671; Execution Time: 6.999799370532855e-05; Configurations Tested: 6
+{H, B, F, C, D, I} <- Total Weight: 89
+11 Vertexes; 0.5 Edges; Basic Operations: 748; Execution Time: 7.327800267376006e-05; Configurations Tested: 7
+{F, G, B, C, K, J, I} <- Total Weight: 116
+12 Vertexes; 0.5 Edges; Basic Operations: 1041; Execution Time: 8.641699969302863e-05; Configurations Tested: 7
+{F, H, L, J, K, D, C} <- Total Weight: 113
+13 Vertexes; 0.5 Edges; Basic Operations: 1399; Execution Time: 9.608599793864414e-05; Configurations Tested: 9
+{B, L, K, M, C, F, H, I, J} <- Total Weight: 158
+14 Vertexes; 0.5 Edges; Basic Operations: 1970; Execution Time: 0.00011315400479361415; Configurations Tested: 11
+{A, H, L, K, J, F, D, N, M, I, C} <- Total Weight: 200
+15 Vertexes; 0.5 Edges; Basic Operations: 2760; Execution Time: 0.00015398300456581637; Configurations Tested: 14
+{E, I, H, N, L, M, K, B, F, D, O, C, A, J} <- Total Weight: 244
+16 Vertexes; 0.5 Edges; Basic Operations: 2462; Execution Time: 0.00014300300244940445; Configurations Tested: 10
+{K, J, I, C, H, F, P, D, O, B} <- Total Weight: 172
+17 Vertexes; 0.5 Edges; Basic Operations: 2477; Execution Time: 0.00012669499847106636; Configurations Tested: 13
+{D, O, N, M, K, C, J, Q, I, P, G, H, F} <- Total Weight: 234
+18 Vertexes; 0.5 Edges; Basic Operations: 6354; Execution Time: 0.00023514500207966194; Configurations Tested: 15
+{B, K, J, I, Q, O, P, H, G, R, F, E, M, D, C} <- Total Weight: 256
+19 Vertexes; 0.5 Edges; Basic Operations: 4297; Execution Time: 0.0001774139964254573; Configurations Tested: 15
+{N, M, O, I, S, F, P, K, J, H, E, R, G, D, C} <- Total Weight: 236
+20 Vertexes; 0.5 Edges; Basic Operations: 4632; Execution Time: 0.0001796610013116151; Configurations Tested: 17
+{P, O, M, N, G, L, J, K, S, T, H, I, D, F, C, R, E} <- Total Weight: 266
+21 Vertexes; 0.5 Edges; Basic Operations: 4956; Execution Time: 0.0001946459960890934; Configurations Tested: 17
+{O, N, M, R, I, J, G, H, T, K, F, S, U, A, E, D, C} <- Total Weight: 260
+22 Vertexes; 0.5 Edges; Basic Operations: 8889; Execution Time: 0.0002604219989734702; Configurations Tested: 20
+{J, H, R, T, L, I, U, M, D, S, C, N, P, G, V, F, E, O, B, A} <- Total Weight: 302
+23 Vertexes; 0.5 Edges; Basic Operations: 6970; Execution Time: 0.00023123899882193655; Configurations Tested: 20
+{A, V, J, W, E, M, K, S, O, H, F, I, R, G, P, T, U, D, C, B} <- Total Weight: 336
+24 Vertexes; 0.5 Edges; Basic Operations: 10697; Execution Time: 0.000290896998194512; Configurations Tested: 22
+{N, M, V, O, K, J, X, U, R, T, W, H, G, B, F, P, S, E, D, C, I, A} <- Total Weight: 342
+25 Vertexes; 0.5 Edges; Basic Operations: 8445; Execution Time: 0.00023508400045102462; Configurations Tested: 24
+{A, V, M, U, N, L, K, J, T, I, H, W, O, X, Y, F, E, S, R, Q, P, D, C, B} <- Total Weight: 375
+26 Vertexes; 0.5 Edges; Basic Operations: 12812; Execution Time: 0.0003488610018393956; Configurations Tested: 22
+{F, W, O, V, U, M, K, R, B, E, C, J, S, A, I, X, P, G, H, Y, Z, D} <- Total Weight: 335
+2 Vertexes; 0.75 Edges; Basic Operations: 22; Execution Time: 3.363900032127276e-05; Configurations Tested: 1
+{B} <- Total Weight: 15
+3 Vertexes; 0.75 Edges; Basic Operations: 36; Execution Time: 2.9679002182092518e-05; Configurations Tested: 1
+{B} <- Total Weight: 15
+4 Vertexes; 0.75 Edges; Basic Operations: 78; Execution Time: 3.220899816369638e-05; Configurations Tested: 2
+{C, D} <- Total Weight: 34
+5 Vertexes; 0.75 Edges; Basic Operations: 150; Execution Time: 3.757800004677847e-05; Configurations Tested: 3
+{A, D, C} <- Total Weight: 47
+6 Vertexes; 0.75 Edges; Basic Operations: 297; Execution Time: 4.786100180353969e-05; Configurations Tested: 4
+{D, C, F, E} <- Total Weight: 74
+7 Vertexes; 0.75 Edges; Basic Operations: 428; Execution Time: 5.490300100063905e-05; Configurations Tested: 5
+{F, B, G, C, D} <- Total Weight: 95
+8 Vertexes; 0.75 Edges; Basic Operations: 469; Execution Time: 5.5721997341606766e-05; Configurations Tested: 6
+{D, B, H, G, F, A} <- Total Weight: 106
+9 Vertexes; 0.75 Edges; Basic Operations: 1345; Execution Time: 9.689200669527054e-05; Configurations Tested: 8
+{F, H, A, C, D, B, I, G} <- Total Weight: 141
+10 Vertexes; 0.75 Edges; Basic Operations: 1268; Execution Time: 9.129299724008888e-05; Configurations Tested: 8
+{F, H, A, D, C, B, J, I} <- Total Weight: 142
+11 Vertexes; 0.75 Edges; Basic Operations: 1088; Execution Time: 8.023100235732272e-05; Configurations Tested: 9
+{H, I, G, K, B, C, J, F, A} <- Total Weight: 160
+12 Vertexes; 0.75 Edges; Basic Operations: 1798; Execution Time: 0.00011416000052122399; Configurations Tested: 9
+{A, H, K, F, L, D, J, C, B} <- Total Weight: 151
+13 Vertexes; 0.75 Edges; Basic Operations: 2013; Execution Time: 0.00011115899542346597; Configurations Tested: 11
+{D, I, K, H, M, F, L, C, J, B, E} <- Total Weight: 196
+14 Vertexes; 0.75 Edges; Basic Operations: 2206; Execution Time: 0.00011212900426471606; Configurations Tested: 13
+{N, M, J, K, L, I, H, B, G, F, E, D, C} <- Total Weight: 236
+15 Vertexes; 0.75 Edges; Basic Operations: 5055; Execution Time: 0.00020216400298522785; Configurations Tested: 14
+{L, K, J, I, O, A, H, E, F, D, N, M, B, C} <- Total Weight: 245
+16 Vertexes; 0.75 Edges; Basic Operations: 5431; Execution Time: 0.00021393600036390126; Configurations Tested: 14
+{M, L, K, J, I, H, N, G, P, F, E, D, O, B} <- Total Weight: 242
+17 Vertexes; 0.75 Edges; Basic Operations: 5515; Execution Time: 0.0002197439971496351; Configurations Tested: 14
+{Q, O, M, K, J, H, I, G, F, D, E, C, B, P} <- Total Weight: 237
+18 Vertexes; 0.75 Edges; Basic Operations: 5980; Execution Time: 0.0002172459935536608; Configurations Tested: 16
+{O, M, Q, P, K, J, I, H, R, G, F, E, D, C, A, B} <- Total Weight: 270
+19 Vertexes; 0.75 Edges; Basic Operations: 6989; Execution Time: 0.00024474900419590995; Configurations Tested: 16
+{M, C, R, K, J, O, A, H, I, G, F, E, D, S, Q, P} <- Total Weight: 268
+20 Vertexes; 0.75 Edges; Basic Operations: 14399; Execution Time: 0.0004061270010424778; Configurations Tested: 19
+{Q, S, H, D, K, I, E, L, T, R, A, J, M, C, P, F, O, B, G} <- Total Weight: 305
+21 Vertexes; 0.75 Edges; Basic Operations: 10118; Execution Time: 0.00030155399872455746; Configurations Tested: 20
+{J, F, I, O, N, Q, P, C, M, R, A, H, S, G, T, D, U, K, E, B} <- Total Weight: 320
+22 Vertexes; 0.75 Edges; Basic Operations: 14138; Execution Time: 0.0003742850021808408; Configurations Tested: 20
+{Q, V, T, P, O, N, M, S, K, J, A, I, H, G, F, E, D, R, C, U} <- Total Weight: 306
+23 Vertexes; 0.75 Edges; Basic Operations: 20358; Execution Time: 0.0004760270021506585; Configurations Tested: 22
+{M, F, D, B, W, L, V, K, J, H, U, C, T, I, E, S, R, O, A, Q, P, G} <- Total Weight: 341
+24 Vertexes; 0.75 Edges; Basic Operations: 13725; Execution Time: 0.0003485409979475662; Configurations Tested: 22
+{P, U, T, O, N, V, W, M, X, S, K, J, I, H, G, F, E, D, C, Q, R, A} <- Total Weight: 343
+25 Vertexes; 0.75 Edges; Basic Operations: 11232; Execution Time: 0.00029834199813194573; Configurations Tested: 23
+{N, B, M, X, J, I, W, H, G, V, U, O, Y, E, P, D, T, C, S, R, Q, A, K} <- Total Weight: 356
+26 Vertexes; 0.75 Edges; Basic Operations: 31643; Execution Time: 0.0006746489962097257; Configurations Tested: 24
+{O, X, W, N, M, V, U, P, T, K, S, J, I, Y, H, G, Z, E, D, C, B, A, R, Q} <- Total Weight: 372

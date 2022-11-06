@@ -44,7 +44,6 @@ def min_weight_vertex_cover_greedy_least_edges(n, p):
     Vertexes with a higher number of connected edges may be considered a better candidate for a possible solution by our algorithm.
     '''
     basic_op = 0
-    tested_configs = 0
 
     path = "./graphs"
     with open(f'{path}/v{n}_e{p}.pkl', 'rb') as f:
@@ -67,7 +66,6 @@ def min_weight_vertex_cover_greedy_least_edges(n, p):
     candidates = set()
     ids = set()
     while True:
-        tested_configs += 1
         v = sorted_vertex.pop()[0] # pop vertex with highest number of connected edges
         v = next((x for x in vertexes if x.id == v), None) # find it's object
         candidates.add(v) # add it to the list of candidate vertexes
@@ -85,7 +83,7 @@ def min_weight_vertex_cover_greedy_least_edges(n, p):
         if check is not False:
             local_solution = sum([v.weight for v in candidates])
             basic_op += 1 + len(candidates) * 2 # if + for loop + additions
-            return local_solution, candidates, basic_op, tested_configs
+            return local_solution, candidates, basic_op, 1
 
 def min_weight_vertex_cover_greedy_least_weight(n, p):
     '''
@@ -117,17 +115,22 @@ def min_weight_vertex_cover_greedy_least_weight(n, p):
             return local_solution, candidates
 
 def plot_complexity(elements, times):
-    plt.xlabel("No. of Vertexes")
-    plt.ylabel("Time required")
+    plt.xlabel("Number of vertexes")
+    plt.ylabel("Execution Time (s)")
+    plt.yscale('log')
     plt.plot(elements,times)
+    plt.show()
 
 if __name__ == "__main__":
-    for p in [0.75]:
+    for p in [0.125, 0.25, 0.5, 0.75]:
+        times = []
         for n in range(2,27):
             start = timer()
-            weight, comb, basic_op, tested_configs = min_weight_vertex_cover_exhaustive(n, p)
-            #weight, comb, basic_op, tested_configs = min_weight_vertex_cover_greedy_least_edges(n, p)
+            #weight, comb, basic_op, tested_configs = min_weight_vertex_cover_exhaustive(n, p)
+            weight, comb, basic_op, tested_configs = min_weight_vertex_cover_greedy_least_edges(n, p)
             end = timer()
+            times.append(end-start)
             print(f"{n} Vertexes; {p} Edges; Basic Operations: {basic_op}; Execution Time: {end-start}; Configurations Tested: {tested_configs}")
             print(f"{comb} <- Total Weight: {weight}")
-            #plot_graph(edges)
+        
+        plot_complexity([i for i in range(2,27)],times)
