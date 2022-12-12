@@ -1,5 +1,5 @@
 import pickle, random, time
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 from math import factorial
 from timeit import default_timer as timer
 from graph_gen import Vertex, Point, plot_graph

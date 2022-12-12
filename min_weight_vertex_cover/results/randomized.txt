@@ -1,0 +1,200 @@
+2 Vertexes; 0.125 Edges; Basic Operations: 23; Execution Time: 0.000285743000858929; Configurations Tested: 2
+{'B'} <- Total Weight: 15
+3 Vertexes; 0.125 Edges; Basic Operations: 34; Execution Time: 9.429100464330986e-05; Configurations Tested: 2
+{'B'} <- Total Weight: 15
+4 Vertexes; 0.125 Edges; Basic Operations: 71; Execution Time: 0.00010130699956789613; Configurations Tested: 3
+{'C', 'D'} <- Total Weight: 33
+5 Vertexes; 0.125 Edges; Basic Operations: 198; Execution Time: 0.00019364000036148354; Configurations Tested: 9
+{'C'} <- Total Weight: 15
+6 Vertexes; 0.125 Edges; Basic Operations: 282; Execution Time: 0.00025642999389674515; Configurations Tested: 10
+{'B', 'C'} <- Total Weight: 30
+7 Vertexes; 0.125 Edges; Basic Operations: 340; Execution Time: 0.000298017002933193; Configurations Tested: 11
+{'B', 'C'} <- Total Weight: 41
+8 Vertexes; 0.125 Edges; Basic Operations: 118; Execution Time: 0.0001578920055180788; Configurations Tested: 4
+{'H', 'D'} <- Total Weight: 29
+9 Vertexes; 0.125 Edges; Basic Operations: 1812; Execution Time: 0.0013892790011595935; Configurations Tested: 48
+{'A', 'G'} <- Total Weight: 44
+10 Vertexes; 0.125 Edges; Basic Operations: 2133; Execution Time: 0.0016943800001172349; Configurations Tested: 58
+{'I', 'H'} <- Total Weight: 32
+11 Vertexes; 0.125 Edges; Basic Operations: 3610; Execution Time: 0.0028561770013766363; Configurations Tested: 89
+{'B', 'G'} <- Total Weight: 37
+12 Vertexes; 0.125 Edges; Basic Operations: 4108; Execution Time: 0.003927241006749682; Configurations Tested: 104
+{'J', 'D'} <- Total Weight: 43
+13 Vertexes; 0.125 Edges; Basic Operations: 6703; Execution Time: 0.007528699999966193; Configurations Tested: 169
+{'I', 'J'} <- Total Weight: 35
+14 Vertexes; 0.125 Edges; Basic Operations: 8558; Execution Time: 0.007891249995736871; Configurations Tested: 206
+{'L', 'D'} <- Total Weight: 45
+15 Vertexes; 0.125 Edges; Basic Operations: 6917; Execution Time: 0.008378783000807744; Configurations Tested: 177
+{'E', 'O'} <- Total Weight: 29
+16 Vertexes; 0.125 Edges; Basic Operations: 10480; Execution Time: 0.012744011997710913; Configurations Tested: 262
+{'I', 'K'} <- Total Weight: 29
+17 Vertexes; 0.125 Edges; Basic Operations: 18224; Execution Time: 0.024218072998337448; Configurations Tested: 431
+{'K', 'M'} <- Total Weight: 39
+18 Vertexes; 0.125 Edges; Basic Operations: 36083; Execution Time: 0.04192127500573406; Configurations Tested: 687
+{'F', 'J', 'C', 'G'} <- Total Weight: 57
+19 Vertexes; 0.125 Edges; Basic Operations: 43799; Execution Time: 0.049783169000875205; Configurations Tested: 765
+{'G', 'E', 'F', 'D'} <- Total Weight: 67
+20 Vertexes; 0.125 Edges; Basic Operations: 51160; Execution Time: 0.06112520400347421; Configurations Tested: 871
+{'D', 'C', 'S', 'G'} <- Total Weight: 52
+21 Vertexes; 0.125 Edges; Basic Operations: 119406; Execution Time: 0.13911560700216796; Configurations Tested: 1731
+{'F', 'P', 'U', 'T', 'H'} <- Total Weight: 65
+22 Vertexes; 0.125 Edges; Basic Operations: 222029; Execution Time: 0.23817127099755453; Configurations Tested: 2755
+{'E', 'D', 'O', 'S', 'U', 'V'} <- Total Weight: 81
+23 Vertexes; 0.125 Edges; Basic Operations: 188636; Execution Time: 0.23934778100374388; Configurations Tested: 2334
+{'P', 'E', 'O', 'K', 'M', 'R', 'V'} <- Total Weight: 118
+24 Vertexes; 0.125 Edges; Basic Operations: 357049; Execution Time: 0.44765804600319825; Configurations Tested: 3800
+{'P', 'B', 'L', 'C', 'W', 'G', 'M', 'R'} <- Total Weight: 110
+25 Vertexes; 0.125 Edges; Basic Operations: 544818; Execution Time: 0.6653581089994987; Configurations Tested: 5481
+{'P', 'E', 'B', 'C', 'W', 'S', 'O', 'U', 'X'} <- Total Weight: 128
+26 Vertexes; 0.125 Edges; Basic Operations: 1361152; Execution Time: 1.806243530001666; Configurations Tested: 12231
+{'P', 'E', 'Z', 'B', 'W', 'S', 'M', 'X', 'V'} <- Total Weight: 118
+2 Vertexes; 0.25 Edges; Basic Operations: 23; Execution Time: 0.00017538899555802345; Configurations Tested: 2
+{'B'} <- Total Weight: 15
+3 Vertexes; 0.25 Edges; Basic Operations: 55; Execution Time: 0.00014828499843133613; Configurations Tested: 3
+{'B'} <- Total Weight: 18
+4 Vertexes; 0.25 Edges; Basic Operations: 100; Execution Time: 0.00012906800111522898; Configurations Tested: 4
+{'B', 'A'} <- Total Weight: 30
+5 Vertexes; 0.25 Edges; Basic Operations: 267; Execution Time: 0.0002681359983398579; Configurations Tested: 12
+{'C'} <- Total Weight: 14
+6 Vertexes; 0.25 Edges; Basic Operations: 372; Execution Time: 0.00031825499900151044; Configurations Tested: 12
+{'B', 'C'} <- Total Weight: 30
+7 Vertexes; 0.25 Edges; Basic Operations: 522; Execution Time: 0.0004374839991214685; Configurations Tested: 16
+{'B', 'C'} <- Total Weight: 33
+8 Vertexes; 0.25 Edges; Basic Operations: 752; Execution Time: 0.0007052789951558225; Configurations Tested: 25
+{'E', 'D'} <- Total Weight: 29
+9 Vertexes; 0.25 Edges; Basic Operations: 1562; Execution Time: 0.0025005670031532645; Configurations Tested: 36
+{'D', 'A', 'G'} <- Total Weight: 46
+10 Vertexes; 0.25 Edges; Basic Operations: 2829; Execution Time: 0.00368936200538883; Configurations Tested: 65
+{'I', 'H', 'D'} <- Total Weight: 42
+11 Vertexes; 0.25 Edges; Basic Operations: 3619; Execution Time: 0.008103484004095662; Configurations Tested: 77
+{'B', 'A', 'G'} <- Total Weight: 52
+12 Vertexes; 0.25 Edges; Basic Operations: 5225; Execution Time: 0.005520844999409746; Configurations Tested: 85
+{'J', 'D', 'G', 'H', 'A'} <- Total Weight: 72
+13 Vertexes; 0.25 Edges; Basic Operations: 12162; Execution Time: 0.015162447998591233; Configurations Tested: 195
+{'I', 'K', 'M', 'J'} <- Total Weight: 82
+14 Vertexes; 0.25 Edges; Basic Operations: 17580; Execution Time: 0.02486587299790699; Configurations Tested: 236
+{'F', 'D', 'L', 'I', 'K', 'M'} <- Total Weight: 94
+15 Vertexes; 0.25 Edges; Basic Operations: 26018; Execution Time: 0.0357515229989076; Configurations Tested: 329
+{'F', 'E', 'D', 'O', 'H', 'K', 'M'} <- Total Weight: 105
+16 Vertexes; 0.25 Edges; Basic Operations: 27371; Execution Time: 0.03654076500242809; Configurations Tested: 328
+{'P', 'J', 'D', 'L', 'I', 'K', 'A'} <- Total Weight: 107
+17 Vertexes; 0.25 Edges; Basic Operations: 56493; Execution Time: 0.09817664000001969; Configurations Tested: 638
+{'P', 'F', 'D', 'O', 'H', 'K', 'M', 'Q'} <- Total Weight: 124
+18 Vertexes; 0.25 Edges; Basic Operations: 74506; Execution Time: 0.12996424000448314; Configurations Tested: 707
+{'E', 'P', 'F', 'D', 'O', 'G', 'H', 'K', 'M'} <- Total Weight: 145
+19 Vertexes; 0.25 Edges; Basic Operations: 100417; Execution Time: 0.1476433010029723; Configurations Tested: 901
+{'F', 'E', 'P', 'B', 'O', 'C', 'G', 'K', 'A', 'R'} <- Total Weight: 160
+20 Vertexes; 0.25 Edges; Basic Operations: 141285; Execution Time: 0.18722831400373252; Configurations Tested: 1242
+{'P', 'E', 'B', 'C', 'O', 'S', 'T', 'G', 'A', 'R'} <- Total Weight: 151
+21 Vertexes; 0.25 Edges; Basic Operations: 348019; Execution Time: 0.4777103829983389; Configurations Tested: 2788
+{'F', 'E', 'D', 'O', 'C', 'U', 'T', 'I', 'R', 'Q'} <- Total Weight: 141
+22 Vertexes; 0.25 Edges; Basic Operations: 486336; Execution Time: 0.617014121999091; Configurations Tested: 3460
+{'E', 'J', 'P', 'D', 'B', 'O', 'S', 'G', 'I', 'H', 'M', 'A', 'R'} <- Total Weight: 186
+23 Vertexes; 0.25 Edges; Basic Operations: 657090; Execution Time: 0.8151382139985799; Configurations Tested: 4482
+{'E', 'J', 'P', 'F', 'D', 'W', 'O', 'G', 'T', 'H', 'K', 'R', 'V'} <- Total Weight: 189
+24 Vertexes; 0.25 Edges; Basic Operations: 821448; Execution Time: 1.0876413400037563; Configurations Tested: 5398
+{'P', 'E', 'D', 'O', 'C', 'S', 'G', 'I', 'U', 'K', 'H', 'A', 'R', 'V'} <- Total Weight: 224
+25 Vertexes; 0.25 Edges; Basic Operations: 1185652; Execution Time: 1.6324249949975638; Configurations Tested: 7195
+{'F', 'D', 'B', 'L', 'W', 'O', 'N', 'I', 'H', 'K', 'M', 'X', 'T', 'V', 'Q'} <- Total Weight: 209
+26 Vertexes; 0.25 Edges; Basic Operations: 1634428; Execution Time: 2.2275555269952747; Configurations Tested: 9407
+{'P', 'J', 'Z', 'D', 'O', 'S', 'W', 'N', 'I', 'H', 'K', 'M', 'T', 'R', 'V', 'Q'} <- Total Weight: 219
+2 Vertexes; 0.5 Edges; Basic Operations: 23; Execution Time: 0.0001554549962747842; Configurations Tested: 2
+{'A'} <- Total Weight: 15
+3 Vertexes; 0.5 Edges; Basic Operations: 75; Execution Time: 0.00011410000297473744; Configurations Tested: 4
+{'B'} <- Total Weight: 15
+4 Vertexes; 0.5 Edges; Basic Operations: 101; Execution Time: 0.00014449199807131663; Configurations Tested: 4
+{'B', 'A'} <- Total Weight: 33
+5 Vertexes; 0.5 Edges; Basic Operations: 200; Execution Time: 0.00021706899860873818; Configurations Tested: 7
+{'C', 'D'} <- Total Weight: 33
+6 Vertexes; 0.5 Edges; Basic Operations: 260; Execution Time: 0.0002543599985074252; Configurations Tested: 7
+{'C', 'A', 'D'} <- Total Weight: 49
+7 Vertexes; 0.5 Edges; Basic Operations: 745; Execution Time: 0.0007142210015445016; Configurations Tested: 19
+{'B', 'F', 'C'} <- Total Weight: 47
+8 Vertexes; 0.5 Edges; Basic Operations: 1028; Execution Time: 0.0009749399978318252; Configurations Tested: 20
+{'H', 'B', 'D', 'G'} <- Total Weight: 69
+9 Vertexes; 0.5 Edges; Basic Operations: 1397; Execution Time: 0.0013650339969899505; Configurations Tested: 23
+{'F', 'D', 'G', 'H', 'A'} <- Total Weight: 78
+10 Vertexes; 0.5 Edges; Basic Operations: 2406; Execution Time: 0.002371713999309577; Configurations Tested: 34
+{'E', 'F', 'B', 'C', 'I', 'H'} <- Total Weight: 92
+11 Vertexes; 0.5 Edges; Basic Operations: 4299; Execution Time: 0.0047763949987711385; Configurations Tested: 57
+{'F', 'B', 'C', 'G', 'I', 'K'} <- Total Weight: 106
+12 Vertexes; 0.5 Edges; Basic Operations: 5754; Execution Time: 0.0065725479944376275; Configurations Tested: 69
+{'F', 'J', 'D', 'L', 'C', 'H', 'K'} <- Total Weight: 113
+13 Vertexes; 0.5 Edges; Basic Operations: 5272; Execution Time: 0.006306340001174249; Configurations Tested: 56
+{'F', 'J', 'E', 'D', 'I', 'H', 'K', 'M', 'A'} <- Total Weight: 139
+14 Vertexes; 0.5 Edges; Basic Operations: 9369; Execution Time: 0.0116839530019206; Configurations Tested: 92
+{'F', 'D', 'B', 'L', 'C', 'I', 'H', 'K', 'A'} <- Total Weight: 152
+15 Vertexes; 0.5 Edges; Basic Operations: 13039; Execution Time: 0.017164183998829685; Configurations Tested: 118
+{'F', 'E', 'J', 'B', 'L', 'C', 'N', 'I', 'H', 'K', 'A'} <- Total Weight: 177
+16 Vertexes; 0.5 Edges; Basic Operations: 19097; Execution Time: 0.027895439001440536; Configurations Tested: 168
+{'F', 'J', 'P', 'D', 'L', 'O', 'C', 'I', 'H', 'K'} <- Total Weight: 168
+17 Vertexes; 0.5 Edges; Basic Operations: 20126; Execution Time: 0.028815249999752268; Configurations Tested: 154
+{'P', 'F', 'J', 'E', 'D', 'O', 'G', 'I', 'H', 'K', 'M', 'Q'} <- Total Weight: 212
+18 Vertexes; 0.5 Edges; Basic Operations: 28152; Execution Time: 0.04320992599969031; Configurations Tested: 206
+{'E', 'P', 'F', 'J', 'D', 'O', 'N', 'I', 'H', 'K', 'M', 'R', 'Q'} <- Total Weight: 203
+19 Vertexes; 0.5 Edges; Basic Operations: 34508; Execution Time: 0.055976767995161936; Configurations Tested: 235
+{'P', 'J', 'F', 'D', 'O', 'S', 'C', 'G', 'I', 'N', 'K', 'M', 'A', 'R'} <- Total Weight: 213
+20 Vertexes; 0.5 Edges; Basic Operations: 43367; Execution Time: 0.07346010400215164; Configurations Tested: 281
+{'P', 'F', 'J', 'E', 'D', 'L', 'O', 'S', 'C', 'G', 'I', 'H', 'K', 'N', 'A'} <- Total Weight: 235
+21 Vertexes; 0.5 Edges; Basic Operations: 59752; Execution Time: 0.10571846600214485; Configurations Tested: 369
+{'F', 'J', 'D', 'O', 'S', 'C', 'G', 'I', 'N', 'H', 'M', 'U', 'T', 'R'} <- Total Weight: 215
+22 Vertexes; 0.5 Edges; Basic Operations: 55190; Execution Time: 0.0999000769952545; Configurations Tested: 318
+{'P', 'J', 'F', 'E', 'D', 'B', 'O', 'S', 'C', 'G', 'I', 'H', 'N', 'M', 'T', 'A', 'R'} <- Total Weight: 242
+23 Vertexes; 0.5 Edges; Basic Operations: 71948; Execution Time: 0.13333289499860257; Configurations Tested: 395
+{'F', 'J', 'D', 'B', 'L', 'C', 'O', 'T', 'I', 'N', 'K', 'M', 'G', 'H', 'A', 'R', 'V', 'Q'} <- Total Weight: 281
+24 Vertexes; 0.5 Edges; Basic Operations: 90082; Execution Time: 0.17418985300173517; Configurations Tested: 472
+{'F', 'C', 'T', 'I', 'H', 'A', 'V', 'E', 'J', 'L', 'O', 'W', 'S', 'K', 'D', 'U', 'G', 'P', 'X'} <- Total Weight: 278
+25 Vertexes; 0.5 Edges; Basic Operations: 114157; Execution Time: 0.24742261600476922; Configurations Tested: 574
+{'F', 'B', 'T', 'I', 'H', 'Y', 'A', 'V', 'E', 'J', 'L', 'O', 'W', 'R', 'D', 'N', 'M', 'Q', 'X'} <- Total Weight: 289
+26 Vertexes; 0.5 Edges; Basic Operations: 123192; Execution Time: 0.2555468540012953; Configurations Tested: 592
+{'F', 'B', 'C', 'T', 'I', 'H', 'Y', 'A', 'J', 'W', 'S', 'K', 'R', 'Z', 'D', 'U', 'N', 'G', 'M', 'P', 'X'} <- Total Weight: 299
+2 Vertexes; 0.75 Edges; Basic Operations: 23; Execution Time: 0.00013606699940282851; Configurations Tested: 2
+{'A'} <- Total Weight: 15
+3 Vertexes; 0.75 Edges; Basic Operations: 58; Execution Time: 0.00010439199832035229; Configurations Tested: 3
+{'B'} <- Total Weight: 15
+4 Vertexes; 0.75 Edges; Basic Operations: 129; Execution Time: 0.0001533760005258955; Configurations Tested: 5
+{'A', 'D'} <- Total Weight: 30
+5 Vertexes; 0.75 Edges; Basic Operations: 246; Execution Time: 0.0002480629991623573; Configurations Tested: 7
+{'C', 'A', 'D'} <- Total Weight: 47
+6 Vertexes; 0.75 Edges; Basic Operations: 346; Execution Time: 0.0003395669991732575; Configurations Tested: 7
+{'B', 'F', 'C', 'A'} <- Total Weight: 67
+7 Vertexes; 0.75 Edges; Basic Operations: 337; Execution Time: 0.0003743959969142452; Configurations Tested: 6
+{'F', 'D', 'B', 'G', 'A'} <- Total Weight: 84
+8 Vertexes; 0.75 Edges; Basic Operations: 658; Execution Time: 0.0007406799995806068; Configurations Tested: 10
+{'D', 'B', 'C', 'H', 'A'} <- Total Weight: 92
+9 Vertexes; 0.75 Edges; Basic Operations: 1175; Execution Time: 0.0013564120017690584; Configurations Tested: 16
+{'E', 'D', 'B', 'C', 'H', 'A'} <- Total Weight: 103
+10 Vertexes; 0.75 Edges; Basic Operations: 1742; Execution Time: 0.002061801998934243; Configurations Tested: 21
+{'F', 'J', 'D', 'B', 'C', 'H', 'A'} <- Total Weight: 121
+11 Vertexes; 0.75 Edges; Basic Operations: 2291; Execution Time: 0.0028451149992179126; Configurations Tested: 24
+{'F', 'J', 'E', 'D', 'B', 'G', 'I', 'H', 'A'} <- Total Weight: 148
+12 Vertexes; 0.75 Edges; Basic Operations: 3007; Execution Time: 0.00437033899652306; Configurations Tested: 31
+{'F', 'J', 'D', 'B', 'L', 'C', 'H', 'K'} <- Total Weight: 136
+13 Vertexes; 0.75 Edges; Basic Operations: 2750; Execution Time: 0.004093593997822609; Configurations Tested: 25
+{'E', 'J', 'F', 'D', 'B', 'C', 'I', 'H', 'K', 'A'} <- Total Weight: 168
+14 Vertexes; 0.75 Edges; Basic Operations: 4411; Execution Time: 0.00684501100477064; Configurations Tested: 37
+{'F', 'J', 'D', 'B', 'L', 'C', 'N', 'H', 'K', 'M'} <- Total Weight: 184
+15 Vertexes; 0.75 Edges; Basic Operations: 5225; Execution Time: 0.008546072996978182; Configurations Tested: 39
+{'E', 'F', 'J', 'D', 'O', 'N', 'G', 'I', 'K', 'M', 'H', 'A'} <- Total Weight: 204
+16 Vertexes; 0.75 Edges; Basic Operations: 6022; Execution Time: 0.0105615350039443; Configurations Tested: 43
+{'F', 'E', 'J', 'P', 'D', 'B', 'O', 'C', 'N', 'I', 'H', 'K', 'A'} <- Total Weight: 221
+17 Vertexes; 0.75 Edges; Basic Operations: 6900; Execution Time: 0.013034092997258995; Configurations Tested: 47
+{'F', 'J', 'P', 'E', 'D', 'L', 'O', 'G', 'I', 'H', 'K', 'M', 'A', 'Q'} <- Total Weight: 228
+18 Vertexes; 0.75 Edges; Basic Operations: 8755; Execution Time: 0.017170728999190032; Configurations Tested: 56
+{'F', 'J', 'E', 'D', 'B', 'L', 'O', 'C', 'N', 'G', 'H', 'I', 'M', 'A', 'Q'} <- Total Weight: 249
+19 Vertexes; 0.75 Edges; Basic Operations: 9463; Execution Time: 0.020542309001029935; Configurations Tested: 60
+{'E', 'F', 'D', 'B', 'L', 'O', 'S', 'C', 'G', 'N', 'H', 'I', 'M', 'A', 'R', 'Q'} <- Total Weight: 263
+20 Vertexes; 0.75 Edges; Basic Operations: 10489; Execution Time: 0.024138817003404256; Configurations Tested: 63
+{'E', 'P', 'F', 'J', 'D', 'B', 'O', 'S', 'G', 'I', 'H', 'K', 'M', 'T', 'A', 'R', 'Q'} <- Total Weight: 261
+21 Vertexes; 0.75 Edges; Basic Operations: 11048; Execution Time: 0.024209816998336464; Configurations Tested: 58
+{'F', 'E', 'P', 'J', 'D', 'B', 'L', 'O', 'C', 'U', 'N', 'T', 'S', 'K', 'I', 'A', 'R', 'Q'} <- Total Weight: 275
+22 Vertexes; 0.75 Edges; Basic Operations: 15991; Execution Time: 0.03901764999318402; Configurations Tested: 85
+{'F', 'B', 'T', 'I', 'H', 'A', 'V', 'E', 'J', 'L', 'S', 'K', 'R', 'D', 'U', 'G', 'M', 'Q', 'P'} <- Total Weight: 276
+23 Vertexes; 0.75 Edges; Basic Operations: 17913; Execution Time: 0.04590506499516778; Configurations Tested: 91
+{'F', 'C', 'T', 'I', 'H', 'A', 'V', 'E', 'J', 'L', 'O', 'W', 'S', 'K', 'R', 'D', 'U', 'M', 'Q', 'P'} <- Total Weight: 297
+24 Vertexes; 0.75 Edges; Basic Operations: 20258; Execution Time: 0.05085527700430248; Configurations Tested: 94
+{'F', 'B', 'C', 'T', 'I', 'H', 'A', 'V', 'E', 'J', 'O', 'S', 'K', 'R', 'D', 'U', 'G', 'M', 'Q', 'P'} <- Total Weight: 316
+25 Vertexes; 0.75 Edges; Basic Operations: 20612; Execution Time: 0.05595379700389458; Configurations Tested: 95
+{'F', 'B', 'C', 'T', 'I', 'H', 'Y', 'A', 'V', 'E', 'J', 'O', 'W', 'S', 'R', 'D', 'N', 'G', 'M', 'Q', 'X'} <- Total Weight: 317
+26 Vertexes; 0.75 Edges; Basic Operations: 24116; Execution Time: 0.06640655599767342; Configurations Tested: 106
+{'F', 'B', 'C', 'I', 'Y', 'A', 'V', 'E', 'J', 'L', 'O', 'W', 'S', 'K', 'R', 'Z', 'D', 'U', 'G', 'N', 'M', 'P', 'X'} <- Total Weight: 329
