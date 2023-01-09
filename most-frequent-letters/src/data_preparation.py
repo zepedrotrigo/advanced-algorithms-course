@@ -1,7 +1,8 @@
-# --- Headers removed by hand
 import string
 
 def preprocess_text(input_file, stop_words_file, output_file):
+    # --- Project Gunteberg Headers removed manually
+
     with open(input_file, 'r') as f:
         input_text = f.read()
 
@@ -10,20 +11,20 @@ def preprocess_text(input_file, stop_words_file, output_file):
 
     input_words = input_text.split()
     stop_words = stop_words.split()
-
-    # remove punctuation marks from words
-    table = str.maketrans('', '', string.punctuation)
-    stripped_words = [word.translate(table) for word in input_words]
-
-    # convert to uppercase
-    uppercase_words = [word.upper() for word in stripped_words]
-
-    # remove stop words
     stop_words = [word.upper() for word in stop_words]
-    filtered_words = [word for word in uppercase_words if word not in stop_words]
+
+    # Remove punctuation marks, stop words and convert to uppercase
+    processed_text = []
+    table = str.maketrans('', '', string.punctuation)
+
+    for word in input_words:
+        processed_word = word.translate(table).upper()
+
+        if processed_word not in stop_words:
+            processed_text.append(processed_word)
 
     # join the filtered words back into a single string
-    output_text = ' '.join(filtered_words)
+    output_text = ' '.join(processed_text)
 
     with open(output_file, 'w') as f:
         f.write(output_text)
